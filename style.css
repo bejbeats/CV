@@ -218,10 +218,14 @@ nav {
     color: #00adb5;
   }
 }
-@media (min-width: 768px) {
+@media (min-width:820px){
+  
   nav {
-    height: 100px;
+    height: 88px;
   }
+  
+}
+@media (min-width: 768px) {
   .nav-link {
     font-size: 20px;
   }
