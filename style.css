@@ -363,7 +363,7 @@ p {
   z-index: -5;
 }
 .team .card {
-  height:100px;
+  height:300px;
   transition: transform 0.4s;
 }
 .team .card img {
