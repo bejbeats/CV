@@ -161,7 +161,7 @@ nav {
 
 .aboutme-hero {
   position: relative;
-  background-image: url("/NaukaPL/img/aboutme-img-small.jpg");
+  background-image: url("aboutme-img-small.jpg");
   background-position: top;
   background-size: cover;
   color: #eeeeee;
@@ -256,7 +256,7 @@ p {
 .hero-img {
   position: relative;
   height: 100vh;
-  background-image: url("/NaukaPL/img/hero-img-small.jpg");
+  background-image: url("hero-img-small.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -287,10 +287,10 @@ p {
     scroll-padding-top: 87px;
   }
   .hero-img {
-    background-image: url("/NaukaPL/img/hero-img-big.jpg");
+    background-image: url("hero-img-big.jpg");
   }
   .aboutme-hero {
-    background-image: url("/NaukaPL/img/aboutme-img-big.jpg");
+    background-image: url("aboutme-img-big.jpg");
   }
   .btn-outline-light {
     text-transform: uppercase;
@@ -343,7 +343,7 @@ p {
 
 .team {
   position: relative;
-  background-image: url("/NaukaPL/img/laptop-img-big.jpg");
+  background-image: url("laptop-img-big.jpg");
   background-size: cover;
   background-attachment: fixed;
   z-index: 0;
@@ -388,7 +388,7 @@ p {
 
 .contact {
   position: relative;
-  background-image: url("/NaukaPL/img/contact-img-big.jpg");
+  background-image: url("contact-img-big.jpg");
   background-position: top;
   background-size: cover;
   background-attachment: fixed;
