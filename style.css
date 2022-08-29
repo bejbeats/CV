@@ -241,6 +241,11 @@ nav {
     height: 88px;
   }
 }
+@media (min-width: 820px){
+  nav{
+  height:92px;
+  }
+}
 header {
   color: #eeeeee;
 }
