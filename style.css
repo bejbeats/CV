@@ -363,6 +363,7 @@ p {
   z-index: -5;
 }
 .team .card {
+  height: 300px;
   transition: transform 0.4s;
 }
 .team .card img {
@@ -382,9 +383,7 @@ p {
   text-transform: uppercase;
 }
 
-.card-body {
-  height: 120px;
-}
+
 
 .contact {
   position: relative;
