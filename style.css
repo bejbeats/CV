@@ -383,7 +383,9 @@ p {
   text-transform: uppercase;
 }
 
-
+.card-body {
+  height: 120px;
+}
 
 .contact {
   position: relative;
