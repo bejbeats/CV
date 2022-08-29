@@ -161,7 +161,7 @@ nav {
 
 .aboutme-hero {
   position: relative;
-  background-image: url("aboutme-img-small.jpg");
+  background-image: url("aboutme-img-big.jpg");
   background-position: top;
   background-size: cover;
   color: #eeeeee;
@@ -256,7 +256,7 @@ p {
 .hero-img {
   position: relative;
   height: 100vh;
-  background-image: url("hero-img-small.jpg");
+  background-image: url("hero-img-big.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
