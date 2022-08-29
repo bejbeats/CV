@@ -363,12 +363,11 @@ p {
   z-index: -5;
 }
 .team .card {
-  height:300px;
+  
   transition: transform 0.4s;
 }
 .team .card img {
-  
-  -o-object-fit: cover;
+height:300px;
      object-fit: cover;
 }
 .team .card i {
