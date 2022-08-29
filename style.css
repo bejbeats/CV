@@ -219,6 +219,9 @@ nav {
   }
 }
 @media (min-width: 768px) {
+  nav {
+    height: 92px;
+  }
   .nav-link {
     font-size: 20px;
   }
@@ -239,11 +242,6 @@ nav {
 @media (min-width: 992px) {
   nav {
     height: 88px;
-  }
-}
-@media (min-width: 820px){
-  nav{
-  height:88px;
   }
 }
 header {
