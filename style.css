@@ -80,9 +80,6 @@
 body {
   font-family: "Montserrat", sans-serif;
   background-color: #eeeeee;
-  html {
-  scroll-behavior: smooth;
-}
 }
 
 h2 {
