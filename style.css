@@ -366,7 +366,7 @@ p {
   transition: transform 0.4s;
 }
 .team .card img {
-  height: 300px;
+  
   -o-object-fit: cover;
      object-fit: cover;
 }
